@@ -1,0 +1,21 @@
+# Vivado temporary files
+*.log
+*.jou
+*.str
+*.vcd
+*.wdb
+*.pb
+*.xpr
+*.cache
+*.runs
+*.srcs
+*.sim
+*.ip_user_files
+*.hw
+*.hwh
+*.prm
+*.bit
+*.bin
+*.ltx
+*.sysdef
+.Xil
