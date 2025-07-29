@@ -8,7 +8,6 @@
 *.xpr
 *.cache
 *.runs
-*.srcs
 *.sim
 *.ip_user_files
 *.hw
